@@ -1,4 +1,6 @@
 ```git
-hello world
+$ git add .
+
+$ git commit -m "change"
 ```
 
