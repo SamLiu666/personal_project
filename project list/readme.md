@@ -14,7 +14,7 @@
 
 **已功能** ： 压缩文件， 压缩可视化，自己选择输入路径（绝对路径）
 
-
+![压缩界面](https://raw.githubusercontent.com/SamLiu666/git_test/master/project%20list/back_documents/source/back_pic.png)
 
 
 
