@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23767241-3221-48e9-bf87-c120dd8cc448" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Multi-process and multi-threading/asynico module/example_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multi-process and multi-threading/asynico thread program/async_lock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multi-process and multi-threading/asynico thread program/call_later.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multi-process and multi-threading/asynico thread program/call_soon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multi-process and multi-threading/asynico thread program/envent_cancel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multi-process and multi-threading/asynico thread program/run_forever.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multi-process and multi-threading/multi-threading to coroutines/control_trans.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multi-process and multi-threading/multi-threading to coroutines/generator_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multi-process and multi-threading/multi-threading to coroutines/itertool_chaim.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multi-process and multi-threading/multi-threading to coroutines/mul_thred.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game 2048/2048.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,70 +13,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Multi-process and multi-threading/asynico module/example_1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="132" column="9" lean-forward="true" selection-start-line="132" selection-start-column="9" selection-end-line="132" selection-end-column="9" />
-              <folding>
-                <element signature="e#0#16#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Multi-process and multi-threading/asynico thread program/envent_cancel.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="44" column="20" lean-forward="true" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Multi-process and multi-threading/asynico thread program/run_forever.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="31" selection-start-line="31" selection-end-line="32" selection-end-column="43" />
-              <folding>
-                <element signature="e#29#40#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Multi-process and multi-threading/asynico thread program/call_soon.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="28" selection-start-line="28" selection-end-line="29" selection-end-column="43" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Multi-process and multi-threading/asynico thread program/call_later.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="27" selection-start-line="27" selection-end-line="28" selection-end-column="43" />
-              <folding>
-                <element signature="e#28#42#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Multi-process and multi-threading/asynico thread program/async_lock.py">
+        <entry file="file://$PROJECT_DIR$/game 2048/2048.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="729">
-              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+            <state relative-caret-position="276">
+              <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
               <folding>
-                <element signature="e#0#14#0" expanded="true" />
+                <element signature="e#57#93#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -146,12 +79,13 @@
         <option value="$PROJECT_DIR$/Multi-process and multi-threading/asynico thread program/call_soon.py" />
         <option value="$PROJECT_DIR$/Multi-process and multi-threading/asynico thread program/call_later.py" />
         <option value="$PROJECT_DIR$/Multi-process and multi-threading/asynico thread program/async_lock.py" />
+        <option value="$PROJECT_DIR$/game 2048/2048.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-129" />
-    <option name="y" value="179" />
+    <option name="x" value="-342" />
+    <option name="y" value="63" />
     <option name="width" value="2032" />
     <option name="height" value="1100" />
   </component>
@@ -161,6 +95,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,19 +106,12 @@
             <path>
               <item name="project list" type="b2602c69:ProjectViewProjectNode" />
               <item name="project list" type="462c0819:PsiDirectoryNode" />
-              <item name="Multi-process and multi-threading" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project list" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project list" type="462c0819:PsiDirectoryNode" />
-              <item name="Multi-process and multi-threading" type="462c0819:PsiDirectoryNode" />
-              <item name="asynico thread program" type="462c0819:PsiDirectoryNode" />
+              <item name="game 2048" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -211,7 +139,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.async_lock">
+  <component name="RunManager" selected="Python.2048">
+    <configuration name="2048" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="1 web server" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/game 2048" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/game 2048/2048.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="async_lock" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1 web server" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -275,27 +224,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="envent_cancel" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="1 web server" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Multi-process and multi-threading/asynico thread program" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Multi-process and multi-threading/asynico thread program/envent_cancel.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="run_forever" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1 web server" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -319,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2048" />
         <item itemvalue="Python.async_lock" />
         <item itemvalue="Python.call_later" />
         <item itemvalue="Python.call_soon" />
         <item itemvalue="Python.run_forever" />
-        <item itemvalue="Python.envent_cancel" />
       </list>
     </recent_temporary>
   </component>
@@ -341,7 +269,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-129" y="179" width="2032" height="1100" extended-state="0" />
+    <frame x="-342" y="63" width="2032" height="1100" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11334002" />
@@ -349,7 +277,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32902467" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4337474" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4099379" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -364,7 +292,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/generate qrcode/qrcode.png" />
     <entry file="file://$PROJECT_DIR$/generate qrcode/test.jpg" />
     <entry file="file://$PROJECT_DIR$/generate qrcode/git.jpg">
       <provider selected="true" editor-type-id="images" />
@@ -610,36 +537,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Multi-process and multi-threading/asynico thread program/envent_cancel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="44" column="20" lean-forward="true" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Multi-process and multi-threading/asynico module/example_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="132" column="9" lean-forward="true" selection-start-line="132" selection-start-column="9" selection-end-line="132" selection-end-column="9" />
+        <state relative-caret-position="3013">
+          <caret line="132" column="9" selection-start-line="132" selection-start-column="9" selection-end-line="132" selection-end-column="9" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Multi-process and multi-threading/asynico thread program/envent_cancel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="44" column="20" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Multi-process and multi-threading/asynico thread program/run_forever.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
+        <state relative-caret-position="667">
           <caret line="31" selection-start-line="31" selection-end-line="32" selection-end-column="43" />
-          <folding>
-            <element signature="e#29#40#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Multi-process and multi-threading/asynico thread program/call_soon.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
+        <state relative-caret-position="621">
           <caret line="28" selection-start-line="28" selection-end-line="29" selection-end-column="43" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
@@ -649,20 +573,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Multi-process and multi-threading/asynico thread program/call_later.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
+        <state relative-caret-position="598">
           <caret line="27" selection-start-line="27" selection-end-line="28" selection-end-column="43" />
-          <folding>
-            <element signature="e#28#42#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Multi-process and multi-threading/asynico thread program/async_lock.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        <state relative-caret-position="730">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game 2048/2048.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="e#57#93#0" expanded="true" />
           </folding>
         </state>
       </provider>
