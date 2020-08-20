@@ -21,3 +21,14 @@
 ## [Python 实现简易浏览器](https://www.shiyanlou.com/courses/705)
 
 **项目扩展** ： 添加标签，点击转到指点网页
+
+## Python 基础操作
+
+```python
+group1 = [1,2,3]
+group2 = [1,2]
+group3 = [1,2,2]
+for i in range(1,4):
+    print(eval("group"+str(i)))  # eval() 字符串变量名化
+```
+
