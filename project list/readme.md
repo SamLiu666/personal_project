@@ -32,3 +32,6 @@ for i in range(1,4):
     print(eval("group"+str(i)))  # eval() 字符串变量名化
 ```
 
+
+
+用numpy 实现矩阵化的计算和存储
