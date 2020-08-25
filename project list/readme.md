@@ -38,3 +38,4 @@ for i in range(1,4):
 
 用numpy 实现矩阵化的计算和存储，keep working
 
+nothing
