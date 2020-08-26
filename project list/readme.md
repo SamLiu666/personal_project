@@ -38,3 +38,4 @@ for i in range(1,4):
 
 用numpy 实现矩阵化的计算和存储，keep working
 
+20200826 - 将所学知识应用于业务理解中？？？
