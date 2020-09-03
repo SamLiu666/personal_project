@@ -48,4 +48,8 @@ for i in range(1,4):
 
 考试
 
+Optimization 考完
+
 CV 考完
+
+DL 考完
