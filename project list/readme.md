@@ -53,3 +53,5 @@ Optimization 考完
 CV 考完
 
 DL 考完
+
+NLP 考完
