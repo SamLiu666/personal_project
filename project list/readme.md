@@ -60,3 +60,4 @@ NLP 考完
 
 正常上班
 
+text2sql
