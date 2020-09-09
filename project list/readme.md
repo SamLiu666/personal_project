@@ -60,4 +60,5 @@ NLP 考完
 
 正常上班
 
-text2sql
+text2sql： 10篇论文 done
+
