@@ -62,3 +62,4 @@ NLP 考完
 
 text2sql： 10篇论文 done
 
+彼得林奇
