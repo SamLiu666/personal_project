@@ -12,7 +12,7 @@ Keep Programming
 
 
 
-## [基于 Python 的文件备份](https://www.shiyanlou.com/courses/302) 
+## [基于 Python 的文件备份](https://www.shiyanlou.com/courses/302)
 
 **已功能** ： 压缩文件， 压缩可视化，自己选择输入路径（绝对路径）
 
@@ -62,4 +62,5 @@ NLP 考完
 
 text2sql： 10篇论文 done
 
-彼得林奇
+彼得林奇，继续
+
