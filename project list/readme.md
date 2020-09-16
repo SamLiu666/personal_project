@@ -67,3 +67,5 @@ text2sql： 10篇论文 done
 阅读
 
 烤肉
+
+TEXT2SQL： BERT as encoder,  transformer + self attention = decoder
