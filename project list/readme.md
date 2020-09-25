@@ -80,4 +80,4 @@ matlab ++
 
 paper reading
 
-元胞机
+元胞机 仿真
