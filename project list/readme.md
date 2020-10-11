@@ -85,3 +85,6 @@ paper reading
 新的一周
 
 20201010： do nothing
+
+leet code
+
