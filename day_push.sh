@@ -1,7 +1,7 @@
 #!/bin/bash
 git status
 git add -A
-echo -n " Please Enter Your Push Record ->"
+echo -r " Please Enter Your Push Record ->"
 read record
 echo -n
 git commit -m $record
