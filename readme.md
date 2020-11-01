@@ -14,6 +14,5 @@ git push -u origin master
 
 
 
-20101010: do nothing but worryaa
+20101010: do nothing but worry
 
-a'a
