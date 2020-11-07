@@ -20,4 +20,4 @@ git push -u origin master
 
 keep
 
-crawl data +1
+crawl data +1 +1
