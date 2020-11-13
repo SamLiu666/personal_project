@@ -1,0 +1,56 @@
+1、WechatSogou – 微信公众号爬虫
+https://github.com/Chyroc/WechatSogou
+2、DouBanSpider – 豆瓣读书爬虫
+
+https://github.com/lanbing510/DouBanSpider
+3、zhihu_spider – 知乎爬虫
+
+https://github.com/LiuRoy/zhihu_spider
+4、bilibili-user – Bilibili用户爬虫
+
+https://github.com/airingursb/bilibili-user
+5、SinaSpider – 新浪微博爬虫
+
+https://github.com/LiuXingMing/SinaSpider
+6、distribute_crawler – 小说下载分布式爬虫
+
+https://github.com/gnemoug/distribute_crawler
+7、CnkiSpider – 中国知网爬虫
+https://github.com/yanzhou/CnkiSpider
+8、LianJiaSpider – 链家网爬虫
+
+https://github.com/lanbing510/LianJiaSpider
+9、scrapy_jingdong – 京东爬虫
+
+https://github.com/taizilongxu/scrapy_jingdong
+10、QQ-Groups-Spider – QQ 群爬虫
+https://github.com/caspartse/QQ-Groups-Spider
+
+
+11、wooyun_public *–* 乌云爬虫
+https://github.com/hanc00l/wooyun_public
+12、spider – hao123网站爬虫
+https://github.com/simapple/spider
+13、findtrip – 机票爬虫（去哪儿和携程网）
+https://github.com/fankcoder/findtrip
+14、163spider – 基于requests、MySQLdb、torndb的网易客户端内容爬虫
+https://github.com/leyle/163spider
+15、doubanspiders – 豆瓣电影、书籍、小组、相册、东西等爬虫集
+https://github.com/fanpei91/doubanspiders
+16、QQSpider – QQ空间爬虫
+https://github.com/LiuXingMing/QQSpider
+17、baidu-music-spider – 百度mp3全站爬虫
+使用redis支持断点续传
+https://github.com/Shu-Ji/baidu-music-spider
+18、tbcrawler – 淘宝和天猫的爬虫
+https://github.com/pakoo/tbcrawler
+19、stockholm – 一个股票数据（沪深）爬虫和选股策略
+https://github.com/benitoro/stockholm
+20、BaiduyunSpider – 百度云盘爬虫
+https://github.com/k1995/BaiduyunSpider
+21、Spider – 社交数据爬虫
+https://github.com/Qutan/Spider
+22、proxy pool – Python爬虫代理IP池(proxy pool)
+https://github.com/jhao104/proxy_pool
+23、music-163 – 爬取网易云音乐所有歌曲的评论
+https://github.com/RitterHou/music-163
