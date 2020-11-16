@@ -72,14 +72,6 @@ class SkipGram(CBOW):
         return self.embeddings(x)   # [batch, emb_dim]
 
 
-def train(model, data):
-    for t in range(2000):
-        bx, by = data.sample(64)  # batch=8
-        loss = model.step(bx, by)
-        if t%200 == 0:
-            print("step: {} | loss: {}".format(t, loss))
-
-
 class SkipGram_2(keras.Model):
     def __init__(self, vocab_d, emb_dim):
         super().__init__()
@@ -117,6 +109,14 @@ class SkipGram_2(keras.Model):
         return loss.numpy()
 
 
+def train(model, data, epochs):
+    for t in range(epochs):
+        bx, by = data.sample(64)  # batch=8
+        loss = model.step(bx, by)
+        if t%200 == 0:
+            print("step: {} | loss: {}".format(t, loss))
+
+
 if __name__ == '__main__':
     import time
     cost_time = {}
@@ -146,27 +146,30 @@ if __name__ == '__main__':
         "i o h n 9 9 d 9 f a 9",
     ]
     ##########################################
-    start = time.time()
-    d = process_w2v_data(corpus, skip_window=2, method="cbow")
-    model = CBOW(vocab_d=d.num_word, emb_dim=4)
-    train(model, d)
-    print("CBOW 训练结果： ",d.num_word, model.embeddings.variables)
-    end = time.time()
-    cost_time["CBOW"] = end - start
-    print("训练时间： ", end - start)
-    # plotting
-    show_w2v_word_embedding(model, d, "./visual/results/cbow.png")
+    # start = time.time()
+    # d = process_w2v_data(corpus, skip_window=2, method="cbow")
+    # model = CBOW(vocab_d=d.num_word, emb_dim=4)
+    # train(model, d, epochs=1000)
+    # print("CBOW 训练结果： ",d.num_word, model.embeddings.variables)
+    # end = time.time()
+    # cost_time["CBOW"] = end - start
+    # print("训练时间： ", end - start)
+    # # plotting
+    # show_w2v_word_embedding(model, d, "./visual/results/cbow.png")
 
     ##########################################
     start = time.time()
     d = process_w2v_data(corpus, skip_window=2, method="skip_gram")
-    model_2 = SkipGram(vocab_d=d.num_word, emb_dim=4)
-    train(model_2, d)
+    model_2 = SkipGram(vocab_d=d.num_word, emb_dim=2)
+    train(model_2, d, epochs=1000)
     print("CBOW 训练结果： ", d.num_word, model_2.embeddings.variables)
     end = time.time()
     cost_time["CBOW"] = end - start
     print("训练时间： ", end - start)
+    word_emb = model_2.embeddings.get_weights()[0]
+    print(word_emb.shape, type(word_emb))
+
 
     # plotting
-    show_w2v_word_embedding(model_2, d, "./visual/results/skip.png")
-    print(cost_time)
+    # show_w2v_word_embedding(model_2, d, "./visual/results/skip.png")
+    # print(cost_time)
