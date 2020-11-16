@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7889be13-d9c6-4cc6-a1f0-94e17d2dbdb8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/seq2seq_attn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transformer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seq2seq.py" beforeDir="false" afterPath="$PROJECT_DIR$/seq2seq.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seq2seq.py" beforeDir="false" afterPath="$PROJECT_DIR$/seq2seq_cnnLM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tf_2x3_1xx_tur.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/../tf_2x3_1xx_tur.xmind" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,53 +17,73 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/visual.py">
+        <entry file="file://$PROJECT_DIR$/seq2seq_attn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="19" column="48" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TF_IDF.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3870">
-              <caret line="132" column="97" selection-start-line="132" selection-start-column="97" selection-end-line="132" selection-end-column="97" />
+            <state relative-caret-position="126">
+              <caret line="8" selection-start-line="8" selection-end-line="10" selection-end-column="3" />
               <folding>
-                <element signature="e#38#56#0" expanded="true" />
+                <element signature="e#109#132#0" expanded="true" />
+                <element signature="e#413#5160#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/word2vec.py">
+        <entry file="file://$PROJECT_DIR$/visual.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="62" />
+            <state relative-caret-position="413">
+              <caret line="182" column="4" selection-start-line="182" selection-start-column="4" selection-end-line="182" selection-end-column="38" />
               <folding>
-                <element signature="e#0#28#0" expanded="true" />
+                <element signature="e#1206#2080#0" />
+                <element signature="e#2109#4111#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seq2seq_cnnLM.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="5" column="59" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="59" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/transformer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="449">
+              <caret line="276" column="25" selection-start-line="276" selection-start-column="25" selection-end-line="276" selection-end-column="25" />
+              <folding>
+                <element signature="e#166#189#0" expanded="true" />
+                <element signature="e#4064#4883#0" />
+                <element signature="e#4916#5267#0" />
+                <element signature="e#5314#6084#0" />
+                <element signature="e#6228#6759#0" />
+                <element signature="e#7644#7688#0" />
+                <element signature="e#7729#7846#0" />
+                <element signature="e#7894#8121#0" />
+                <element signature="e#8171#8979#0" />
+                <element signature="e#9029#9337#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/seq2seq.py">
+        <entry file="file://$PROJECT_DIR$/utils.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            <state relative-caret-position="539">
+              <caret line="126" column="13" lean-forward="true" selection-start-line="126" selection-start-column="13" selection-end-line="126" selection-end-column="13" />
               <folding>
-                <element signature="e#0#23#0" expanded="true" />
-                <element signature="e#151#5852#0" />
-                <element signature="e#255#2280#0" />
-                <element signature="e#718#750#0" />
-                <element signature="e#2315#2753#0" />
-                <element signature="e#2806#3353#0" />
-                <element signature="e#3398#3864#0" />
-                <element signature="e#3936#4786#0" />
-                <element signature="e#4829#5852#0" />
+                <element signature="e#6716#7066#0" />
+                <element signature="e#7138#8750#0" />
+                <element signature="e#8792#9482#0" />
               </folding>
             </state>
           </provider>
@@ -78,6 +101,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>safe_log</find>
+      <find>clipnorm</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -90,12 +114,16 @@
         <option value="$PROJECT_DIR$/word2vec.py" />
         <option value="$PROJECT_DIR$/s.py" />
         <option value="$PROJECT_DIR$/seq2seq.py" />
+        <option value="$PROJECT_DIR$/seq2seq_attn.py" />
+        <option value="$PROJECT_DIR$/seq2seq_cnnLM.py" />
+        <option value="$PROJECT_DIR$/transformer.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
+    <option name="x" value="911" />
+    <option name="y" value="1" />
+    <option name="width" value="1017" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -111,6 +139,36 @@
             <path>
               <item name="nlp tool" type="b2602c69:ProjectViewProjectNode" />
               <item name="nlp tool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nlp tool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nlp tool" type="462c0819:PsiDirectoryNode" />
+              <item name="visual" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nlp tool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nlp tool" type="462c0819:PsiDirectoryNode" />
+              <item name="visual" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nlp tool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nlp tool" type="462c0819:PsiDirectoryNode" />
+              <item name="visual" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="transformer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nlp tool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nlp tool" type="462c0819:PsiDirectoryNode" />
+              <item name="visual" type="462c0819:PsiDirectoryNode" />
+              <item name="results" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nlp tool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nlp tool" type="462c0819:PsiDirectoryNode" />
+              <item name="visual" type="462c0819:PsiDirectoryNode" />
+              <item name="tmp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -134,28 +192,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.seq2seq">
-    <configuration name="TF_IDF" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="nlp tool" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TF_IDF.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.transformer">
     <configuration name="s" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="nlp tool" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,7 +226,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seq2seq.py" />
+      <option name="SCRIPT_NAME" value="D:\git-project\personal project\nlp tool\seq2seq_cnnLM.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,7 +235,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="seq2seq_attn" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="nlp tool" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,7 +247,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seq2seq_attn.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,7 +256,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="word2vec" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="seq2seq_cnnLM" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="nlp tool" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,7 +268,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/word2vec.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seq2seq_cnnLM.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="transformer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="nlp tool" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/transformer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,11 +300,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.transformer" />
+        <item itemvalue="Python.seq2seq_cnnLM" />
+        <item itemvalue="Python.seq2seq_attn" />
         <item itemvalue="Python.seq2seq" />
         <item itemvalue="Python.s" />
-        <item itemvalue="Python.word2vec" />
-        <item itemvalue="Python.TF_IDF" />
-        <item itemvalue="Python.utils" />
       </list>
     </recent_temporary>
   </component>
@@ -267,18 +325,18 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.06026558" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17650159" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.47071582" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.53362256" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.45661604" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -287,20 +345,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/Anaconda/envs/nl2sql/Lib/site-packages/tensorflow/python/keras/layers/embeddings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1617">
-          <caret line="81" selection-start-line="81" selection-end-line="85" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda/envs/nl2sql/Lib/site-packages/tensorflow/python/keras/engine/base_layer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="687">
-          <caret line="496" column="20" lean-forward="true" selection-start-line="496" selection-start-column="20" selection-end-line="496" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/Anaconda/envs/nl2sql/Lib/site-packages/tensorflow/python/ops/nn_impl.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="327">
@@ -346,16 +390,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CBOW.py" />
-    <entry file="file://$PROJECT_DIR$/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5970">
-          <caret line="205" column="61" selection-start-line="205" selection-start-column="52" selection-end-line="205" selection-end-column="61" />
-          <folding>
-            <element signature="e#8792#9482#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/Anaconda/envs/nl2sql/Lib/site-packages/tensorflow_addons/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="530">
@@ -387,20 +421,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Anaconda/envs/nl2sql/Lib/site-packages/tensorflow_addons/seq2seq/basic_decoder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="133" selection-start-line="133" selection-end-line="133" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda/envs/nl2sql/Lib/site-packages/tensorflow/python/keras/losses.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="718" column="10" lean-forward="true" selection-start-line="718" selection-start-column="10" selection-end-line="718" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/Anaconda/envs/nl2sql/Lib/site-packages/tensorflow/python/ops/math_ops.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -425,23 +445,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/visual.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="19" column="48" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TF_IDF.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3870">
-          <caret line="132" column="97" selection-start-line="132" selection-start-column="97" selection-end-line="132" selection-end-column="97" />
-          <folding>
-            <element signature="e#38#56#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/s.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-120">
@@ -462,27 +465,127 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/997506071/builtins.py">
+    <entry file="file://D:/Anaconda/envs/nl2sql/Lib/site-packages/tensorflow_addons/seq2seq/attention_wrapper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-966">
-          <caret line="5225" column="6" selection-start-line="5225" selection-start-column="6" selection-end-line="5225" selection-end-column="6" />
+        <state relative-caret-position="196">
+          <caret line="1876" column="8" selection-start-line="1876" selection-start-column="8" selection-end-line="1876" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/seq2seq.py">
+    <entry file="file://$PROJECT_DIR$/TF_IDF.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        <state relative-caret-position="231">
+          <caret line="132" column="97" selection-start-line="132" selection-start-column="97" selection-end-line="132" selection-end-column="97" />
+          <folding>
+            <element signature="e#38#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/envs/nl2sql/Lib/site-packages/tensorflow/python/keras/optimizer_v2/adam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="358" column="59" selection-start-line="358" selection-start-column="51" selection-end-line="358" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/envs/nl2sql/Lib/site-packages/tensorflow_addons/seq2seq/basic_decoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/envs/nl2sql/Lib/site-packages/tensorflow/python/keras/losses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="148" selection-start-line="148" selection-end-line="148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cost time">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/Anaconda/envs/nl2sql/Lib/site-packages/tensorflow/python/keras/layers/embeddings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-966">
+          <caret line="88" column="6" selection-start-line="88" selection-start-column="6" selection-end-line="88" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/997506071/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-786">
+          <caret line="4065" column="8" selection-start-line="4065" selection-start-column="8" selection-end-line="4065" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/envs/nl2sql/Lib/site-packages/tensorflow/python/keras/engine/base_layer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2054">
+          <caret line="103" column="6" selection-start-line="103" selection-start-column="6" selection-end-line="103" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seq2seq_attn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" selection-start-line="8" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="e#109#132#0" expanded="true" />
+            <element signature="e#413#5160#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visual.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="182" column="4" selection-start-line="182" selection-start-column="4" selection-end-line="182" selection-end-column="38" />
+          <folding>
+            <element signature="e#1206#2080#0" />
+            <element signature="e#2109#4111#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seq2seq_cnnLM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="59" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="59" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
-            <element signature="e#151#5852#0" />
-            <element signature="e#255#2280#0" />
-            <element signature="e#718#750#0" />
-            <element signature="e#2315#2753#0" />
-            <element signature="e#2806#3353#0" />
-            <element signature="e#3398#3864#0" />
-            <element signature="e#3936#4786#0" />
-            <element signature="e#4829#5852#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transformer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="276" column="25" selection-start-line="276" selection-start-column="25" selection-end-line="276" selection-end-column="25" />
+          <folding>
+            <element signature="e#166#189#0" expanded="true" />
+            <element signature="e#4064#4883#0" />
+            <element signature="e#4916#5267#0" />
+            <element signature="e#5314#6084#0" />
+            <element signature="e#6228#6759#0" />
+            <element signature="e#7644#7688#0" />
+            <element signature="e#7729#7846#0" />
+            <element signature="e#7894#8121#0" />
+            <element signature="e#8171#8979#0" />
+            <element signature="e#9029#9337#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="126" column="13" lean-forward="true" selection-start-line="126" selection-start-column="13" selection-end-line="126" selection-end-column="13" />
+          <folding>
+            <element signature="e#6716#7066#0" />
+            <element signature="e#7138#8750#0" />
+            <element signature="e#8792#9482#0" />
           </folding>
         </state>
       </provider>
