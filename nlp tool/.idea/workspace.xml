@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7889be13-d9c6-4cc6-a1f0-94e17d2dbdb8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/seq2seq.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CBOW.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/skipgram.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/word2vec.py" beforeDir="false" afterPath="$PROJECT_DIR$/word2vec.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tf_2x3_1xx_tur.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/../tf_2x3_1xx_tur.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seq2seq.py" beforeDir="false" afterPath="$PROJECT_DIR$/seq2seq.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +16,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/visual.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6203">
+            <state relative-caret-position="420">
               <caret line="19" column="48" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="48" />
             </state>
           </provider>
@@ -29,7 +25,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TF_IDF.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
+            <state relative-caret-position="3870">
               <caret line="132" column="97" selection-start-line="132" selection-start-column="97" selection-end-line="132" selection-end-column="97" />
               <folding>
                 <element signature="e#38#56#0" expanded="true" />
@@ -41,12 +37,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/word2vec.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="68" selection-start-line="36" selection-start-column="68" selection-end-line="36" selection-end-column="68" />
+            <state relative-caret-position="120">
+              <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="62" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
-                <element signature="e#3031#4441#0" />
-                <element signature="e#4519#5209#0" />
               </folding>
             </state>
           </provider>
@@ -55,13 +49,18 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/seq2seq.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="157" lean-forward="true" selection-start-line="157" selection-end-line="157" />
+            <state relative-caret-position="240">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
-                <element signature="e#2416#2870#0" />
-                <element signature="e#3008#3476#0" />
-                <element signature="e#5052#6075#0" />
+                <element signature="e#151#5852#0" />
+                <element signature="e#255#2280#0" />
+                <element signature="e#718#750#0" />
+                <element signature="e#2315#2753#0" />
+                <element signature="e#2806#3353#0" />
+                <element signature="e#3398#3864#0" />
+                <element signature="e#3936#4786#0" />
+                <element signature="e#4829#5852#0" />
               </folding>
             </state>
           </provider>
@@ -89,13 +88,14 @@
       <list>
         <option value="$PROJECT_DIR$/utils.py" />
         <option value="$PROJECT_DIR$/word2vec.py" />
+        <option value="$PROJECT_DIR$/s.py" />
         <option value="$PROJECT_DIR$/seq2seq.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="910" />
-    <option name="width" value="1017" />
+    <option name="x" value="953" />
+    <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -148,6 +148,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TF_IDF.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="nlp tool" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/s.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,6 +243,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.seq2seq" />
+        <item itemvalue="Python.s" />
         <item itemvalue="Python.word2vec" />
         <item itemvalue="Python.TF_IDF" />
         <item itemvalue="Python.utils" />
@@ -245,12 +267,12 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.23717949" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.06026558" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.44468546" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.47071582" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -323,13 +345,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CBOW.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2490">
-          <caret line="86" column="4" selection-start-line="86" selection-start-column="4" selection-end-line="86" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/CBOW.py" />
     <entry file="file://$PROJECT_DIR$/utils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5970">
@@ -337,23 +353,6 @@
           <folding>
             <element signature="e#8792#9482#0" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TF_IDF.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="132" column="97" selection-start-line="132" selection-start-column="97" selection-end-line="132" selection-end-column="97" />
-          <folding>
-            <element signature="e#38#56#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visual.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6203">
-          <caret line="19" column="48" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="48" />
         </state>
       </provider>
     </entry>
@@ -368,18 +367,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-876">
           <caret line="1026" column="6" selection-start-line="1026" selection-start-column="6" selection-end-line="1026" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/word2vec.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="68" selection-start-line="36" selection-start-column="68" selection-end-line="36" selection-end-column="68" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-            <element signature="e#3031#4441#0" />
-            <element signature="e#4519#5209#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -438,15 +425,64 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/visual.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="19" column="48" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TF_IDF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3870">
+          <caret line="132" column="97" selection-start-line="132" selection-start-column="97" selection-end-line="132" selection-end-column="97" />
+          <folding>
+            <element signature="e#38#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/s.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="62" column="44" lean-forward="true" selection-start-line="62" selection-start-column="44" selection-end-line="62" selection-end-column="44" />
+          <folding>
+            <element signature="e#145#168#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/word2vec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/997506071/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-966">
+          <caret line="5225" column="6" selection-start-line="5225" selection-start-column="6" selection-end-line="5225" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/seq2seq.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="157" lean-forward="true" selection-start-line="157" selection-end-line="157" />
+        <state relative-caret-position="240">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
-            <element signature="e#2416#2870#0" />
-            <element signature="e#3008#3476#0" />
-            <element signature="e#5052#6075#0" />
+            <element signature="e#151#5852#0" />
+            <element signature="e#255#2280#0" />
+            <element signature="e#718#750#0" />
+            <element signature="e#2315#2753#0" />
+            <element signature="e#2806#3353#0" />
+            <element signature="e#3398#3864#0" />
+            <element signature="e#3936#4786#0" />
+            <element signature="e#4829#5852#0" />
           </folding>
         </state>
       </provider>
